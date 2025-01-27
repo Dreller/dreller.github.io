@@ -1,16 +1,18 @@
 ---
 title: Screen Background Image
-date: 2025-01-26 20:44 -0500
+date: 2025-01-27 16:26 -0500
 categories: [Power Apps, Design]
 tags: [power fx, design, ui]
 ---
 
 This is a standard Background to use on your screens.  It is meant to be used with containes, filled with White or Smoke White color.
 
-## Demo
-| Empty Screen                                | Screen with a container                                 |
-| ------------------------------------------- | ------------------------------------------------------- |
-| ![Empty](/assets/media/BackgroundPlain.png) | ![Container](/assets/media/BackgroundWithContainer.png) |
+## Demos
+![Empty](/assets/media/BackgroundPlain.png)
+_Empty Screen_
+
+![Container](/assets/media/BackgroundWithContainer.png)
+_Screen with a Container_
 
 ## Formula
 Define the following Formula in your App.

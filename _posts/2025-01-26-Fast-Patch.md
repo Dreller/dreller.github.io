@@ -5,9 +5,6 @@ categories: [Power Apps, Tricks]
 tags: [power fx, performance, database, sharepoint]
 ---
 
-> This is my first post and I am still working on it.
-{: .prompt-warning }
-
 Have you ever been in the situation where you need to `Patch()` multiple SharePoint List Items?  You probably also noticed that using `ForAll()` is looping throuth all items, one by one.
 
 Well, your users have better to do than looking at a frozen screen.
